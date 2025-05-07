@@ -2,8 +2,6 @@
 
 Hey there! I'm Jonathan Chen, currently leading Media Relations at a Hong Kong-listed company 🏢.
 
----
-
 ## 🚀 My Side Hustles & Passions
 
 Beyond my day job, I'm passionate about a few things:
@@ -22,8 +20,6 @@ Beyond my day job, I'm passionate about a few things:
         * Southern Metropolis Weekly
         * Shanghai Morning Post
 
----
-
 ## 🎮 My Hobbies
 
 When I'm not working or coding, you can find me:
@@ -31,7 +27,5 @@ When I'm not working or coding, you can find me:
 * Playing video games 🕹️
 * Watching movies 🎬
 * Reading books 📚
-
----
 
 Feel free to explore my repositories or connect with me! ✨
