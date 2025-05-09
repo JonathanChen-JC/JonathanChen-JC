@@ -1,31 +1,31 @@
-## 👋 About Me
+## 👋 Wassup, Peeps!
 
-Hey there! I'm Jonathan Chen, currently leading Media Relations at a Hong Kong-listed company 🏢.
+It's ya boi, Jonathan Chen! Currently killin' it leading Media Relations at a Hong Kong-listed company 🏢.
 
-## 🚀 My Side Hustles & Passions
+## 🚀 My Side Hustles & Real Deal Passions
 
-Beyond my day job, I'm passionate about a few things:
+When I'm not adulting in my day job, this is what gets me hyped:
 
 * 🎙️ **Host of the [「少点套路」 Podcast](https://www.xiaoyuzhoufm.com/podcast/6693bd8837236c546e0be38c)**
-    * Thrilled to have nearly 10,000 subscribers tuning in! 🎉
+    * Legit thrilled we've got nearly 10k subscribers tuning in! 🎉 Big W!
 
-* 💻 **Vibe Coding Enthusiast**
-    * I've developed several RSS summary services for mainstream media outlets like Lex Fridman, Axios, The Atlantic, POLITICO, and more. 📰
-    * Proud to say these tools are used by hundreds of subscribers across diverse fields, including AI 🤖 and Finance 💰.
+* 💻 **Vibe Coding Enthusiast (aka Coding for the Feels)**
+    * Cooked up several RSS summary services for major media outlets like Lex Fridman, Axios, The Atlantic, POLITICO, and more. 📰 Keeping you in the loop, fam.
+    * Super proud that these tools are used by hundreds of subscribers across diverse fields, including AI 🤖 and Finance 💰. We love to see it!
 
-* ✍️ **Former Investigative Journalist**
-    * I've had the privilege of working with esteemed news organizations such as:
-        * The New York Times (NYT)
+* ✍️ **Ex-Investigative Journalist in the Arena**
+    * Had the awesome chance to work with some legendary news orgs:
+        * The New York Times
         * 21st Century Business Herald
         * Southern Metropolis Weekly
         * Shanghai Morning Post
 
-## 🎮 My Hobbies
+## 🎮 My Chill Zone
 
-When I'm not working or coding, you can find me:
+When I'm off the clock and not deep in code, you'll catch me:
 
-* Playing video games 🕹️
-* Watching movies 🎬
-* Reading books 📚
+* Totally owning it in video games 🕹️
+* Binge-watching movies like there's no tomorrow 🎬
+* Getting lost in a good book 📚
 
-Feel free to explore my repositories or connect with me! ✨
+Feel free to lurk around my repos or slide into my DMs! ✨
