@@ -7,11 +7,11 @@ It's ya boi, Jonathan Chen! Currently killin' it leading Media Relations at a Ho
 When I'm not adulting in my day job, this is what gets me hyped:
 
 * 🎙️ **Host of the [「少点套路」 Podcast](https://www.xiaoyuzhoufm.com/podcast/6693bd8837236c546e0be38c)**
-    * Legit thrilled we've got nearly 10k subscribers tuning in! 🎉 Big W!
+    * Legit thrilled we've got nearly 10k subscribers tuning in! 🎉
 
-* 💻 **Vibe Coding Enthusiast (aka Coding for the Feels)**
+* 💻 **Vibe Coding Enthusiast**
     * Cooked up several RSS summary services for major media outlets like Lex Fridman, Axios, The Atlantic, POLITICO, and more. 📰 Keeping you in the loop, fam.
-    * Super proud that these tools are used by hundreds of subscribers across diverse fields, including AI 🤖 and Finance 💰. We love to see it!
+    * Super proud that these tools are used by hundreds of subscribers across diverse fields, including AI 🤖 and Finance 💰.
 
 * ✍️ **Ex-Investigative Journalist in the Arena**
     * Had the awesome chance to work with some legendary news orgs:
